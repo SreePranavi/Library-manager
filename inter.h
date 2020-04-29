@@ -1,0 +1,11 @@
+int count(int n);
+int id_generator(int mem);
+int pin_verify();
+int phone_verify();
+int membership_verify();
+void read(char buff[]);
+void user_signup();
+void user_login();
+void admin_login();
+int search();
+int pattern_match(char *, int , char *, int);
